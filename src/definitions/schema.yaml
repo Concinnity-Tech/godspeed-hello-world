@@ -1,0 +1,6 @@
+User:
+  type: object
+  properties:
+    pan_number:
+      type: string
+      description: '@encrypted'
